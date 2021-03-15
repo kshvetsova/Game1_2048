@@ -24,4 +24,4 @@ Tech stack:
 
 ![Preview](./src/images/reference.png)
 
-  [DEMO LINK](https://kshvetsova.github.io/js_2048_game/)
+  [DEMO LINK](https://kshvetsova.github.io/Game_2048/)
