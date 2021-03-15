@@ -19,7 +19,7 @@ Some rules:
 
 Tech stack:
 - HTML
-- CSS
+- SCSS
 - JavaScript
 
 ![Preview](./src/images/reference.png)
